@@ -49,7 +49,7 @@ Commercial brand collaborations—long-form feature writing, not advertising.
 | 教你做一杯夏日Freestyle冰咖啡 | 冰咖啡教程 | [中](essays/food-drink/summer-ice-coffee/index.zh.md) / [英](essays/food-drink/summer-ice-coffee/index.en.md) |
 | 一场让你心情倍儿好的派对 — 136种世界精酿 | 精酿啤酒嘉年华 | [中](essays/food-drink/craft-beer-carnival/index.zh.md) / [英](essays/food-drink/craft-beer-carnival/index.en.md) |
 
-### 生活方式 · Lifestyle（3 篇）
+### 生活方式 · Lifestyle（4 篇）
 
 | 文章 | 主题 | 中 / 英 |
 |------|------|--------|
