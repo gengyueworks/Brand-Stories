@@ -56,6 +56,7 @@ Commercial brand collaborations—long-form feature writing, not advertising.
 | 平价且不俗气的耳环也需要审美，我帮你挑出来了 | 穿搭 · 饰品精选 | [中](essays/lifestyle/affordable-earrings/index.zh.md) / [英](essays/lifestyle/affordable-earrings/index.en.md) |
 | 我的旅行箱里有什么 · 绝对走心的旅行收纳指南 | 旅行 · 收纳 | [中](essays/lifestyle/travel-packing-guide/index.zh.md) / [英](essays/lifestyle/travel-packing-guide/index.en.md) |
 | 好物清单 · 是一个温柔的态度，是一种很深的友谊 | 审美 · 好物合集 | [中](essays/lifestyle/curated-goods/index.zh.md) / [英](essays/lifestyle/curated-goods/index.en.md) |
+| 我的旅行双肩包 · Herschel Supply | 旅行 · 装备 | [中](essays/lifestyle/herschel-backpack/index.zh.md) |
 
 ---
 
