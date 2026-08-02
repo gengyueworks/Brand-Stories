@@ -1,5 +1,21 @@
 # Brand Stories · 品牌故事
 
+> 接过几次品牌合作，发现一个共同问题：品牌方手里全是好东西，可一写出来就成了产品说明书。
+>
+> 要么是硬广，读者一秒划走；要么是软文，伪装成种草，读两句就知道是广告。我做过多年内容，知道问题不在产品，在写法。读者不傻，想让他记住一个品牌，得先让他愿意读完一篇文章。
+>
+> 所以我用特稿的方式写品牌。不写卖点，写故事。把品牌塞进一个真实场景里，让读者看完记的是那个人、那个瞬间，品牌自然就进去了。这不是广告，是叙事包装。
+
+---
+
+> I've taken on a few brand collaborations, and the same problem kept showing up: the brand had good material, but the moment it got written down, it turned into a product spec sheet.
+>
+> Either it was a hard ad, swiped past in a second, or a soft ad disguised as a recommendation—you could tell in two sentences. I've done content for years, and I know the problem isn't the product, it's the writing. Readers aren't stupid. If you want them to remember a brand, you first have to make them willing to finish the article.
+>
+> So I write brands the way I write features. Not selling points—stories. I drop the brand into a real scene, so when readers finish, what stays is the person, the moment, and the brand slips in naturally. This isn't advertising. It's narrative packaging.
+
+---
+
 商业品牌合作——以特稿写作的稀缺方式，为品牌进行叙事包装。
 Commercial brand collaborations—long-form feature writing, not advertising.
 
