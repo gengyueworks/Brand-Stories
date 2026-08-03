@@ -40,7 +40,7 @@ Commercial brand collaborations—long-form feature writing, not advertising.
 | 为什么这些户外品牌能火？ | Patagonia | [中](essays/brands/patagonia/index.zh.md) |
 | Supreme 在中国开的第一家门店，为什么选在这座城市？ | Supreme | [中](essays/brands/supreme-china/index.zh.md) |
 
-### 饮食文化 · Food & Drink（4 篇）
+### 饮食文化 · Food & Drink（5 篇）
 
 | 文章 | 主题 | 中 / 英 |
 |------|------|--------|
@@ -48,6 +48,7 @@ Commercial brand collaborations—long-form feature writing, not advertising.
 | Homie别走，我有一杯Freestyle的冰咖啡要送你！ | Homie 品牌咖啡 | [中](essays/food-drink/homie-ice-coffee/index.zh.md) / [英](essays/food-drink/homie-ice-coffee/index.en.md) |
 | 教你做一杯夏日Freestyle冰咖啡 | 冰咖啡教程 | [中](essays/food-drink/summer-ice-coffee/index.zh.md) / [英](essays/food-drink/summer-ice-coffee/index.en.md) |
 | 一场让你心情倍儿好的派对 — 136种世界精酿 | 精酿啤酒嘉年华 | [中](essays/food-drink/craft-beer-carnival/index.zh.md) / [英](essays/food-drink/craft-beer-carnival/index.en.md) |
+| 一餐一饮皆心意。其野夏日新美味 | 其野餐厅夏日菜单 | [中](essays/food-drink/05-qiye-summer-menu/index.zh.md) |
 
 ### 生活方式 · Lifestyle（4 篇）
 
