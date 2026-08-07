@@ -44,6 +44,16 @@ Commercial brand collaborations—long-form feature writing, not advertising.
 | 好物清单 · 是一个温柔的态度，是一种很深的友谊 | 审美 · 好物合集 | [中](essays/lifestyle/curated-goods/index.zh.md) / [英](essays/lifestyle/curated-goods/index.en.md) |
 | 我的旅行双肩包 · Herschel Supply | 旅行 · 装备 | [中](essays/lifestyle/herschel-backpack/index.zh.md) |
 
+### 演讲 · Speeches（3 篇）
+
+> 一场场站上台去讲的分享。原稿大量旅行配图在石墨导出时丢失，现以纯文字版收录，配图位置以「【配图】」标注。
+
+| 文章 | 场合 | 中 / 英 |
+|------|------|--------|
+| [心有高光，手可摘星辰 —— 高光白酒（泸州老窖）演讲](essays/speeches/gaoguang-luzhoulaojiao/index.zh.md) | 高光白酒 · 泸州老窖 | [中](essays/speeches/gaoguang-luzhoulaojiao/index.zh.md) |
+| [向光而行 —— 成都演讲（文字版）](essays/speeches/xiangguang-chengdu/index.zh.md) | 成都分享 · 悦人悦己悦生活 | [中](essays/speeches/xiangguang-chengdu/index.zh.md) |
+| [光之向往 · 追逐光，成为光 —— 成都演讲稿](essays/speeches/zhuiguang-chengdu/index.zh.md) | 成都分享 · 备选稿 | [中](essays/speeches/zhuiguang-chengdu/index.zh.md) |
+
 ---
 
 ## 版权 · Copyright
